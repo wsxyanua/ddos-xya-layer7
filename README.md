@@ -154,15 +154,9 @@ Chúng tôi luôn hoan nghênh mọi đóng góp từ cộng đồng. Nếu bạ
 
 Dự án này được phát hành dưới giấy phép MIT. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
-## Liên Hệ
-
-- Email: [your-email@example.com]
-- GitHub: [your-github-profile]
-- Website: [your-website]
-
 ## Cảm Ơn
 
 Cảm ơn bạn đã quan tâm đến dự án này. Chúng tôi hy vọng công cụ này sẽ hữu ích cho việc học tập và nghiên cứu của bạn.
 
 ---
-*Được phát triển với ❤️ bởi [Your Name]* 
+*Được phát triển với ❤️ bởi xyanua.* 
